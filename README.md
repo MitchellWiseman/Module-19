@@ -8,7 +8,7 @@
 
 ![Proof of transaction](Images/Transaction.png)
 
-#Installation Gudie/ Imports
+# Installation Gudie/ Imports
 
 import streamlit as st
 from dataclasses import dataclass
